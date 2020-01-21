@@ -1,0 +1,21 @@
+1. Tools to use git in GUI.
+Ans. a. Github Desktop
+     b. SourceTree
+     c. GitKraken
+     d. SmartGit
+     e. Git Cola
+
+2. Use of "-u" git push.
+Ans. "Upstream" would refer to the main repo that other people will be 
+    pulling from, e.g. your GitHub repo. The -u option automatically 
+    sets that upstream for you, linking your repo to a central one. 
+    That way, in the future, Git "knows" where you want to push to
+     and where you want to pull from, so you can use git pull or 
+     git push without arguments. 
+
+3. What is "origin" in  git push origin master?
+Ans. It is tag name of the remote repo which can be later used instead of url.
+
+
+
+     
