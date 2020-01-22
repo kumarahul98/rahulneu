@@ -8,7 +8,7 @@ public class Program
 		int s=Convert.ToInt32(Console.ReadLine());
 		int[] n=new int[s];
 		int[] nn=new int[s];
-		Console.WriteLine("Enter teh array vlaues:\n");
+		Console.WriteLine("Enter teh array vlaues:  \n");
 		for (int i=0;i<s;i++)
 		{
 			n[i]=Convert.ToInt32(Console.ReadLine());
